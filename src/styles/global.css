@@ -9,9 +9,9 @@
 
 /* ── Variables ── */
 :root {
-  --color-primary: #06606d;
-  --color-primary-dark: #044950;
-  --color-primary-light: #e8f4f6;
+  --color-primary: #006D6F;
+  --color-primary-dark: #005456;
+  --color-primary-light: #e6f3f3;
   --color-text: #1a1a1a;
   --color-text-secondary: #5c5c5c;
   --color-bg: #ffffff;
@@ -20,7 +20,7 @@
   --color-border: #d4d4d4;
   --color-border-light: #e8e8e8;
   --color-accent-dark: #051A42;
-  --color-accent-orange: #c4652a;
+  --color-accent-orange: #e05724;
   --font-body: 'Libre Franklin', system-ui, -apple-system, sans-serif;
   --font-heading: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
   --max-width: 880px;
@@ -133,7 +133,7 @@ h2 {
 main > h2,
 .section > h2 {
   padding-bottom: 0.4rem;
-  border-bottom: 1px solid var(--color-border-light);
+  border-bottom: 2px solid var(--color-primary);
 }
 
 .cta h2 {
@@ -254,7 +254,7 @@ nav a::after {
   left: 0;
   width: 0;
   height: 1.5px;
-  background: var(--color-accent-dark);
+  background: var(--color-primary);
   transition: width 0.25s cubic-bezier(0.33, 1, 0.68, 1);
 }
 
@@ -265,7 +265,7 @@ nav a[aria-current="page"]::after {
 
 nav a:hover,
 nav a[aria-current="page"] {
-  color: var(--color-accent-dark);
+  color: var(--color-primary);
   text-decoration: none;
 }
 
@@ -440,7 +440,7 @@ main {
   font-family: var(--font-heading);
   font-weight: 700;
   font-size: 1.15rem;
-  color: var(--color-accent-dark);
+  color: var(--color-primary);
   margin: 0 0 0.25rem;
 }
 
@@ -564,7 +564,7 @@ main {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: var(--color-accent-dark);
+  background: var(--color-primary);
 }
 
 .experience-list li:last-child {
@@ -657,7 +657,7 @@ main {
 }
 
 .talks-list li:hover {
-  border-left-color: var(--color-accent-dark);
+  border-left-color: var(--color-primary);
 }
 
 /* ── Book entries ── */
@@ -716,7 +716,7 @@ main {
   transform: translateY(-50%);
   width: 5px;
   height: 5px;
-  background: var(--color-accent-dark);
+  background: var(--color-primary);
   border-radius: 50%;
 }
 
@@ -914,7 +914,7 @@ main {
   top: 0;
   bottom: 0;
   width: 2px;
-  background: var(--color-accent-orange);
+  background: var(--color-primary);
   border-radius: 1px;
 }
 
