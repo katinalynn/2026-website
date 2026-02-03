@@ -10,8 +10,8 @@ src/
 │   └── BaseLayout.astro    # Shared layout with header, nav, footer, skip link
 ├── pages/
 │   ├── index.astro         # Home page with hero, services, testimonials
-│   ├── about.astro         # Bio, professional experience
-│   ├── services.astro      # Institutional consulting, individual support, talks
+│   ├── about.astro         # Bio, professional experience, approach/values
+│   ├── services.astro      # Institutional consulting, individual support, talks, clients
 │   ├── writing.astro       # Books
 │   ├── media.astro         # Press, podcasts, speaking
 │   └── contact.astro       # Email and newsletter links
@@ -173,6 +173,15 @@ Must follow logical order (h1 → h2 → h3, no skipping levels):
     <p>Description</p>
     <a href="mailto:..." class="contact-link">email@example.com</a>
   </div>
+</div>
+```
+
+### Section Accent
+Used for highlighted text sections (values, approach statements):
+```html
+<div class="section-accent">
+  <p>Paragraph text...</p>
+  <p>Additional paragraphs as needed...</p>
 </div>
 ```
 
