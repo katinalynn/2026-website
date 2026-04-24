@@ -632,6 +632,17 @@ main {
   filter: grayscale(8%);
 }
 
+.headshot-figure {
+  margin: 0;
+}
+
+.headshot-figure figcaption {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  text-align: center;
+  margin-top: 0.4rem;
+}
+
 /* ── Experience list ── */
 .experience-list {
   list-style: none;
