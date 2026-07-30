@@ -4,10 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Standard Terms of Engagement — Inkcap Consulting</title>
+<title>Standard Terms of Engagement | Katina L. Rogers, Inkcap Consulting</title>
+<link rel="icon" href="/favicon-32x32.webp" sizes="32x32">
+<link rel="icon" href="/favicon.webp" sizes="192x192">
+<link rel="apple-touch-icon" href="/apple-touch-icon.webp">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Libre+Franklin:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Libre+Franklin:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <style>
 :root{
   --color-primary:#06606d;
@@ -25,6 +28,8 @@
   --color-accent-orange-soft:#c4652a;
   --font-body:'Libre Franklin',system-ui,-apple-system,sans-serif;
   --font-heading:'Cormorant Garamond',Georgia,'Times New Roman',serif;
+  /* Site chrome uses the live site's teal so the header matches adjacent pages */
+  --site-teal:#006D6F;
 }
 *{box-sizing:border-box;}
 html{-webkit-text-size-adjust:100%;}
@@ -39,11 +44,45 @@ body{
 }
 .wrap{max-width:760px;margin:0 auto;padding:0 28px 96px;}
 
+/* ---------- Site header (mirrors BaseLayout.astro) ---------- */
+.skip-link{
+  position:absolute;top:-100%;left:1rem;z-index:1000;
+  padding:.5rem 1rem;background:var(--color-accent-dark);color:#fff;
+  border-radius:0 0 8px 8px;font-size:.85rem;font-weight:500;text-decoration:none;
+}
+.skip-link:focus{top:0;color:#fff;}
+.site-header{padding:1.25rem 0;border-bottom:1px solid var(--color-border);}
+.site-header-inner{
+  max-width:880px;margin:0 auto;padding:0 1.5rem;
+  display:flex;align-items:center;justify-content:space-between;
+  gap:1.5rem;flex-wrap:wrap;
+}
+.site-brand{display:flex;align-items:baseline;gap:.45rem;text-decoration:none;color:var(--color-accent-dark);}
+.site-brand:hover{text-decoration:none;color:var(--color-accent-dark);}
+.brand-company{font-family:var(--font-heading);font-size:1.35rem;font-weight:700;letter-spacing:-.01em;}
+.brand-sep{font-weight:300;color:var(--color-border);font-size:1.1rem;}
+.brand-name{font-family:var(--font-heading);font-size:1.2rem;font-weight:400;font-style:italic;color:var(--color-accent-orange);}
+.site-header nav ul{list-style:none;display:flex;gap:2rem;padding:0;margin:0;}
+.site-header nav li{margin:0;padding:0;position:static;}
+.site-header nav li::before{content:none;}
+.site-header nav a{
+  color:var(--color-text-secondary);font-size:.82rem;font-weight:500;
+  letter-spacing:.06em;text-transform:uppercase;text-decoration:none;
+  transition:color .15s ease;position:relative;padding-bottom:.3rem;
+}
+.site-header nav a::after{
+  content:'';position:absolute;bottom:0;left:0;width:0;height:1.5px;
+  background:var(--site-teal);transition:width .25s cubic-bezier(.33,1,.68,1);
+}
+.site-header nav a:hover::after,
+.site-header nav a:focus-visible::after{width:100%;}
+.site-header nav a:hover,
+.site-header nav a:focus-visible{color:var(--site-teal);text-decoration:none;}
+.site-header nav a:focus-visible{outline:2px solid var(--site-teal);outline-offset:3px;border-radius:2px;}
+
 /* ---------- Masthead ---------- */
-.masthead{padding:64px 0 0;}
-.wordmark{font-family:var(--font-heading);font-weight:400;font-size:31px;line-height:1;color:var(--color-accent-dark);letter-spacing:.005em;}
-.wordmark em{font-style:italic;font-weight:300;display:block;font-size:20px;margin-top:5px;color:var(--color-primary);}
-.rule-teal{width:56px;height:3px;background:var(--color-primary);border:0;margin:34px 0 0;}
+.masthead{padding:52px 0 0;}
+.rule-teal{width:56px;height:3px;background:var(--color-primary);border:0;margin:0;}
 
 h1{
   font-family:var(--font-heading);font-weight:400;font-style:normal;
@@ -86,7 +125,7 @@ h1{
   font-size:11.5px;text-transform:uppercase;letter-spacing:.14em;
   color:var(--color-primary);font-weight:600;margin:0 0 8px;
 }
-section{margin-top:52px;}
+.wrap section{margin-top:52px;}
 h2{
   font-family:var(--font-heading);font-weight:400;
   font-size:29px;line-height:1.2;color:var(--color-primary);
@@ -100,17 +139,17 @@ h3{
   color:var(--color-accent-dark);margin:28px 0 7px;
   letter-spacing:.005em;
 }
-p{margin:15px 0;}
+.wrap p{margin:15px 0;}
 
-/* ---------- Custom bullets ---------- */
-ul{list-style:none;margin:15px 0;padding:0;}
-ul li{position:relative;padding-left:1.3em;margin:9px 0;}
-ul li::before{
+/* ---------- Custom bullets (scoped so site nav is unaffected) ---------- */
+.wrap ul{list-style:none;margin:15px 0;padding:0;}
+.wrap ul li{position:relative;padding-left:1.3em;margin:9px 0;}
+.wrap ul li::before{
   content:"";position:absolute;left:0;top:.52em;
   width:5px;height:5px;border-radius:50%;background:var(--color-primary);
 }
-ul ul{margin:8px 0 8px;}
-ul ul li::before{background:var(--color-accent-orange-soft);}
+.wrap ul ul{margin:8px 0 8px;}
+.wrap ul ul li::before{background:var(--color-accent-orange-soft);}
 
 /* ---------- Definition emphasis ---------- */
 .term{font-weight:600;color:var(--color-accent-dark);}
@@ -122,24 +161,29 @@ th,td{border:1px solid var(--color-border-light);padding:11px 14px;text-align:le
 th{background:var(--color-primary-light);font-weight:600;color:var(--color-accent-dark);font-size:14px;}
 td:first-child{width:44%;}
 
-/* ---------- Footer ---------- */
-footer{
+/* ---------- Document footer ---------- */
+.doc-footer{
   margin-top:72px;padding-top:26px;
   border-top:1px solid var(--color-border-light);
   font-size:13px;font-weight:300;color:var(--color-text-secondary);
   line-height:1.7;
 }
 .rule-orange{width:48px;height:3px;background:var(--color-accent-orange);border:0;margin:0 0 26px;}
-footer a{color:var(--color-primary);text-decoration:none;border-bottom:1px solid var(--color-primary-light);}
-footer a:hover{color:var(--color-primary-dark);}
+.doc-footer a{color:var(--color-primary);text-decoration:none;border-bottom:1px solid var(--color-primary-light);}
+.doc-footer a:hover{color:var(--color-primary-dark);}
+.doc-footer .backlink{margin-top:18px;}
 
 /* ---------- Responsive ---------- */
+@media (max-width:680px){
+  .site-header-inner{flex-direction:column;align-items:flex-start;}
+  .site-header nav ul{flex-wrap:wrap;gap:1rem;}
+}
 @media (max-width:600px){
   body{font-size:16px;}
   .wrap{padding:0 20px 64px;}
   h1{font-size:33px;}
   h2{font-size:24px;}
-  .masthead{padding-top:44px;}
+  .masthead{padding-top:40px;}
   td:first-child{width:auto;}
   table,tbody,tr,td,th{display:block;width:100%;}
   th{display:none;}
@@ -151,23 +195,46 @@ footer a:hover{color:var(--color-primary-dark);}
 /* ---------- Print ---------- */
 @media print{
   body{font-size:10.5pt;line-height:1.5;}
+  .skip-link,.site-header,.doc-footer .backlink{display:none;}
   .wrap{max-width:none;padding:0;}
   .masthead{padding-top:0;}
   h1{font-size:22pt;}
   h2{font-size:14pt;page-break-after:avoid;}
   h3{page-break-after:avoid;}
-  section{margin-top:22pt;page-break-inside:avoid;}
+  .wrap section{margin-top:22pt;page-break-inside:avoid;}
   .box-teal,.box-orange{page-break-inside:avoid;}
-  footer{page-break-inside:avoid;}
+  .doc-footer{page-break-inside:avoid;}
   a{color:var(--color-text);border:0;}
 }
 </style>
 </head>
 <body>
-<div class="wrap">
+
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="/">
+      <span class="brand-company">Inkcap Consulting</span>
+      <span class="brand-sep">|</span>
+      <span class="brand-name">Katina L. Rogers</span>
+    </a>
+    <nav aria-label="Main">
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/services/">Services</a></li>
+        <li><a href="/writing/">Writing</a></li>
+        <li><a href="/media/">Media</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap" id="main-content">
 
 <header class="masthead">
-  <div class="wordmark">Inkcap<em>Consulting</em></div>
   <hr class="rule-teal">
   <h1>Standard Terms of Engagement</h1>
   <div class="docmeta">
@@ -357,13 +424,14 @@ footer a:hover{color:var(--color-primary-dark);}
   <p>The Agreement, together with these terms and any exhibits, constitutes the entire agreement between the parties on its subject matter and supersedes prior discussions and proposals.</p>
 </section>
 
-<footer>
+<footer class="doc-footer">
   <hr class="rule-orange">
   <p><strong>Inkcap Consulting</strong> · Katina L. Rogers, PhD<br>
   <a href="mailto:katina@katinarogers.com">katina@katinarogers.com</a></p>
   <p>Standard Terms of Engagement, Version 1.0 · Effective August 1, 2026<br>
   Current version available at inkcapconsulting.com/terms</p>
   <p>These terms are a business document, not legal advice, and have not been reviewed by counsel.</p>
+  <p class="backlink"><a href="/">Return to inkcapconsulting.com</a> · <a href="/contact/">Contact</a></p>
 </footer>
 
 </div>
