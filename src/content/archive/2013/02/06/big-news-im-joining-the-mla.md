@@ -1,0 +1,15 @@
+---
+title: "Big news: I’m joining the MLA!"
+date: 2013-02-06
+original_url: https://katinarogers.com/2013/02/06/big-news-im-joining-the-mla/
+categories: ["MLA", "Personal"]
+tags: ["job", "announcement", "MLA", "mlacommons", "SCI"]
+---
+
+I am delighted to announce that, following my term with the Scholarly Communication Institute, I’ll be [joining the Modern Language Association](http://scholcomm.commons.mla.org/new-member-mla-commons-team/) as Managing Editor of the [MLA Commons](http://commons.mla.org).
+
+The new role begins in September, which seems far away, but the months will undoubtedly fly by. I’m in the enviable position of wanting to linger in my current position while also looking forward to the next. As many of you know, my position with SCI came with an expiration date; like many grant-funded jobs, this one runs out when the grant concludes. Were that not the case, I would have loved to keep working with Bethany Nowviskie and the team at the Scholars’ Lab; it is a wonderful place, with brilliant colleagues, smart, creative graduate students, and a constant stream of new ideas. It has been a privilege to work with them; I’ve [learned an incredible amount](/archive/2012/12/31/reflections-on-2012/ "Reflections on 2012") in the past year, and the people at the Scholars’ Lab are a big reason why.
+
+But if I do have to move along, I cannot think of a better place to land than working with Kathleen Fitzpatrick at the MLA. (I know, I’m incredibly lucky to have such phenomenal bosses and mentors.) I’ll be responsible for much of the editorial work and community building related to the brand-new MLA Commons. So please, start using it now if you haven’t already, so that I have a wealth of material to work with when I come on board! As you might imagine, I’ll be thinking a lot about how the Commons might best serve not only its existing active members, but also people in alternative academic careers. I’ll also be thinking about the potential for cross-disciplinary collaboration as the Commons matures.
+
+Between now and September, I have a lot of work to do: I am continuing to work on the analysis and reporting of SCI’s recent survey on career preparation for humanities scholars; SCI is convening one more meeting on each of our two main topics ([new models of scholarly production](http://uvasci.org/current-work/scholarly-production/) and [reforming humanities graduate education](http://uvasci.org/current-work/graduate-education/)); and we’re starting to think about future directions for the newly-launched [Praxis Network](http://praxis-network.org). Watch for more on all of those things in the months ahead. In addition, I’ll have a couple of fun “firsts”: I’ll be attending DHSI (for a course on visual design! I’m terribly excited) and giving a long paper at my first Digital Humanities conference (here’s the [program](http://dh2013.unl.edu/schedule-and-events/program/), hot off the presses). It’s an exciting time for me; I never could have predicted any of this a couple of years ago, and I’m looking forward to seeing what unfolds down the road.

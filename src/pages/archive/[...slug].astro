@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('archive');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const date = post.data.date;
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC',
+});
+---
+
+<BaseLayout title={post.data.title}>
+  <div class="blog-post-header">
+    <time class="blog-post-date" datetime={date.toISOString().slice(0, 10)}>{formattedDate}</time>
+    <h1>{post.data.title}</h1>
+    <p class="archive-note">From the archive: originally published on katinarogers.com.</p>
+  </div>
+
+  <article class="prose">
+    <Content />
+  </article>
+
+  <div class="blog-back">
+    <a href="/archive/">&larr; All archived posts</a>
+  </div>
+</BaseLayout>
