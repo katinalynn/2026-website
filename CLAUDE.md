@@ -14,11 +14,15 @@ src/
 │   ├── services.astro      # Institutional consulting, individual support, talks, clients
 │   ├── writing.astro       # Books
 │   ├── media.astro         # Press, podcasts, speaking
-│   └── contact.astro       # Email and newsletter links
+│   ├── contact.astro       # Email and newsletter links
+│   └── archive/            # Old katinarogers.com blog posts (not in nav)
+├── content/
+│   └── archive/YYYY/MM/DD/ # 89 archived posts; URLs mirror the old dated paths
 ├── styles/
 │   └── global.css          # All styles (no component CSS)
 public/
-└── images/                 # All images (logos, covers, headshot, mushroom)
+├── images/                 # All images (logos, covers, headshot, mushroom)
+└── archive/uploads/        # Images/PDFs for archived posts (from old wp-content/uploads)
 ```
 
 ## Design System

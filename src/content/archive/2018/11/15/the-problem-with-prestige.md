@@ -1,0 +1,41 @@
+---
+title: "The problem with prestige"
+date: 2018-11-15
+original_url: https://katinarogers.com/2018/11/15/the-problem-with-prestige/
+categories: ["Higher Ed", "Talks and Events"]
+tags: ["prestige", "public good", "higher ed"]
+---
+
+I recently had the honor of speaking alongside brilliant public scholars Jessie Daniels and Alex Gil at an NYC event hosted by the University of Edinburgh. The event, which was organized by (also brilliant!) Karen Gregory, Melissa Terras, Sian Bayne, and their Edinburgh colleagues, carried a daunting title: [**What is the future of the University? Teaching, learning, and research in a time of crisis**](https://global.ed.ac.uk/global-cities-engagement)**.** Karen asked each of us to prepare a brief "provocation." I spoke about the problem with prestige, and about the challenge of moving from a competitive, prestige-oriented model of higher education to one that builds from (and creates) abundance, joy, and a sense of possibility. This was a very quick talk, and one intended to spark questions rather than provide answers. I'm sharing here an edited version of my remarks, as this is a topic I would like to continue exploring in my work—in my writing and speaking, and in my capacity as an administrator.
+
+------------------------------------------------------------------------
+
+When I think of the future of the university, I think specifically of the future of the university as a **public good**. With that lens in mind, I would argue that one of the most fundamental (and under-discussed) issues in thinking about the future of the university is the question of **prestige**.
+
+The prestige economy of higher education is often something that is a tacit undercurrent that propels and silently shapes both personal and structural decisions. From selecting a research topic, to student and faculty recruitment, to broader questions of institutional investment in particular programs or fields, there is nearly always an awareness of how such decisions will affect the relative prestige of the scholar, department, or university. That this would be the case seems impossible to change; it is part of "the way things are."
+
+But the pursuit and glorification of prestige has a deep impact on the way we do our work. For that reason, all of us who are invested in higher education must be willing to look directly at the role of prestige in academia, and to think critically about what constitutes scholarly or academic success. Until we are able to think more expansively about that, it will be very difficult to make headway on meaningful reform efforts, whether those efforts are centered on diversity and inclusion, labor issues, reinvesting in teaching, broader career pathways, or anything else.
+
+A little bit about where I'm coming from: I co-direct a program that focuses in part on innovation, but not in the way it is typically framed. The Futures Initiative emphasizes innovation **in service of** equity in higher education, a positioning that upends the question of prestige and the usual gloss of educational technology to instead center equity and the public good. I also have a book in the works with Duke University Press called [*Putting the Humanities PhD to Work*](/archive/2018/01/09/putting-the-humanities-phd-to-work/), which focuses on how to create broader career pathways for humanities scholars, and why that effort matters.
+
+What I have seen is that when people have space to work differently, the results can be absolutely amazing. The undergraduates, graduate students, and faculty members who work with the Futures Initiative do so outside of the structures of their departments, and have freedom and flexibility to explore ways that their work and ideas connect with other fields, and how they might apply to big societal questions. Grad students in our program run a series called "[The University Worth Fighting For](https://futuresinitiative.org/blog/2015/08/03/the-university-worth-fighting-for/)" that tackles a wide range of issues related to higher ed, and gives students a way to think really expansively about their work and how it can have an impact in the world. We also have a number of peer and near-peer relationships structured into the program so that people are constantly teaching and constantly learning from one another, formally and informally.
+
+But these kinds of opportunities are rare. People in our program say they were waiting for this kind of opportunity, it brings their work to life, they couldn't find it in their home departments. More typical modes of working and of assessing scholarly success revolves around what is valued as prestigious. This includes a pronounced dominance of research at the expense of teaching, service, leadership, and even collaborative projects (at least in the humanities). Teaching is under-supported, and faculty may rely on course releases to accomplish the work that is valued for tenure and promotion. Somehow we have created an educational system in which *not-teaching* is seen as a reward.
+
+Broadening our sense of what matters must be paired with a critical consideration of the academy's formal structures of evaluation (promotion, tenure, admissions). This structural component is essential if we want to make it possible for people to work creatively and thoughtfully. Otherwise, we will continue in the status quo, which relies on an overarching investment in a conservative understanding of success that hinge on a very traditional prestige framework. This leads to training students to succeed in the same ways as their predecessors, and generally repeating what has come before, in a professionalization process that is reproductive rather than generative.
+
+As long as this is the case, real change is very difficult. Teaching remains devalued because it is often not incentivized within prestige economies, contributing to an increased reliance on adjunct faculty members who are not adequately supported or compensated for their work. Service is totally undervalued, and people (usually women, and especially women of color) who take on higher service loads may be implicitly (or even explicitly) penalized for not making enough "progress" on the kinds of work that are formally rewarded. In addition, recruitment of both students and faculty remains conservative—or people may be recruited to do things that the institution isn't actually prepared to support, which is incredibly counterproductive and often personally damaging.
+
+If we want to move away from this conservative model, we have to think about what really matters. Not what is prestigious, but *why* we do our work and what good it can do in the world. Some of the things that I consider core values and goals are:
+
+- Reinvesting in teaching
+- Fostering and celebrating work that has a significant public impact, and rewarding that work formally
+- Strengthening academic labor structures
+- Creating more inclusive structures
+- Bringing people into the field in new ways, looking for new kinds of scholarly products, and meaningfully supporting that work
+- Thinking more creatively about which students are primed for "success"
+- Supporting students and faculty through mentorship and especially peer mentorship
+
+These values bring me to one underlying hope that we can create academic structures that are rooted in **abundance and joy**. On some days this seems frankly impossible. On other days, I see glimmers of hope through the work of individuals and programs that aim to work differently.
+
+How can we get to a place **where joy is a value that is supported structurally?** Part of the answer involves material support for the full range of scholarly work (not just prestigious research), and part involves a fundamental shift in priorities. I think we see a glimpse onto this through the [Futures Initiative](http://futuresinitiative.org), but I would challenge us all to think about how can we make it a part of higher ed more broadly. Scholarly work is all about creating new knowledge, new ways of being, new possibilities. It should be something that creates a mindset of abundance, but somehow higher ed has come to be dominated by a sense of scarcity and competition. How can we change that? Resolving this question is something that I consider worth fighting for as we look to the future of the university.

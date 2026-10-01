@@ -1,0 +1,16 @@
+---
+title: "Announcing a New Phase for #Alt-Academy"
+date: 2014-01-27
+original_url: https://katinarogers.com/2014/01/27/announcing-a-new-phase-for-alt-academy/
+categories: ["(#Alt-)Academia"]
+---
+
+I’m incredibly pleased to announce that I’ve begun work as coordinating editor of [*\#Alt-Academy*](http://mediacommons.futureofthebook.org/alt-ac/), where I’ll be [building on](http://mediacommons.futureofthebook.org/alt-ac/pieces/new-growth-alt-academy) the work of [Bethany Nowviskie](http://nowviskie.org) and the 32 authors who contributed to the site’s inaugural collection of essays. Nowviskie [launched the first iteration](http://nowviskie.org/2011/announcing-alt-academy/) of the site in 2011, when the term “alt-ac” was just gaining traction as a useful shorthand to describe the kinds of intellectually satisfying careers that many humanities scholars pursue in and around academic institutions.
+
+The conversation has evolved a great deal since then. There’s [new data](/archive/2013/08/12/alt-ac-report-and-data/) available about the kinds of work people are doing and the career preparation they’ve had; scholarly societies like the AHA and the MLA are investing resources in additional [data collection](http://www.historians.org/teaching-and-learning/current-projects/career-diversity-for-historians/the-many-careers-of-history-phds) and programmatic recommendations, not to mention [hosting discussions](http://altac.commons.mla.org/2013/11/06/alt-ac-sessions-mla14/) at their annual conferences; and the term itself has become both more commonly used and more hotly contested.
+
+All of these things are signs of a maturing discussion. When the term [“alt-ac” was coined](http://storify.com/nowviskie/altac-origin-stories), it appealed to many because our collective vocabulary lacked a term for the kinds of work it suggested—work that built on their scholarly training and perhaps contributed to the larger academic system without being a teaching- or research-focused job in a university. The label itself is not particularly important. What matters is the discussion about the careers humanities scholars pursue, and the ways that discussion can inform the structure of graduate programs so that they better support students across a broader range of employment outcomes.
+
+With the conversation evolving, it’s only fitting that *\#Alt-Academy* should undergo some changes as well. In addition to the change in editorship, we’re making the first volume of essays [available for download](http://mediacommons.futureofthebook.org/alt-ac/e-book) as an e-book. We’ll also be publishing new content more regularly, beginning with a new cluster of essays edited by [Brian Croxall](http://www.briancroxall.net/), called [Looking for Signposts](http://mediacommons.futureofthebook.org/alt-ac/cluster/signposts). Watch for this cluster—and others—to grow in the year ahead as we continue to publish new material. And if you want to get involved as an author or cluster editor, we’re always looking for fresh ideas! [Here’s how to contribute](http://mediacommons.futureofthebook.org/alt-ac/how-it-works).
+
+Thanks to everyone who has helped to make this site what it is. I look forward to exploring where the conversation goes from here.

@@ -1,0 +1,33 @@
+---
+title: "Crafting the unsayable: Anne Carson's Nox"
+date: 2012-02-01
+original_url: https://katinarogers.com/2012/02/01/crafting-the-unsayable-anne-carsons-nox/
+categories: ["Literature"]
+tags: ["anne carson", "craftsmanship", "fragment", "mourning", "Oulipo", "stephen ramsay", "translation"]
+---
+
+One of my reading habits that changed most significantly after grad school is that I tend to read books sequentially now, rather than starting half a dozen at the same time. I like this new rhythm; it feels luxurious, and reminds me of the pure pleasure of being a reader.
+
+Recently, contrary to my post-grad school habits, I found myself reading two books at once: [Stephen Ramsay's *Reading Machines*](http://www.press.uillinois.edu/books/catalog/75tms2pw9780252036415.html), and [Anne Carson's](http://www.amazon.com/Nox-Anne-Carson/dp/0811218708) *[Nox](http://www.amazon.com/Nox-Anne-Carson/dp/0811218708).* The two books are not at all alike, but reading them concurrently reminded me of the serendipity of finding that one work opens up new and surprising connections in another. In this case, the connection is craft and constraint.
+
+In *Reading Machines*, Ramsay explores "potential literature" as a way of understanding the  complex relationship between writing, reading, and criticism. Ramsay argues that the process of creating a text in the manner of [Oulipo](http://www.oulipo.net/) is a process that is at once creative and critical, and in which the reader is frequently complicit. Further, Ramsay notes that, contrary to the Surrealists' focus on inspiration, Oulipians "emphasize the original sense of poesis as 'making' or 'building'" (27). The more challenging the constraint, the more keenly aware the reader becomes of how carefully each word and line must be crafted. (Having recently read [Doug Nufer's *Never Again*](http://www.amazon.com/Never-Again-Doug-Nufer/dp/0971248567), in which no word is used twice, I wholeheartedly agree with this.)
+
+So, with craftsmanship and limitation and the interrelated roles of writer and reader on my mind, I come to *Nox*, a book more spellbinding and beautiful and unusual than anything I have read in a long time. Carson certainly takes on multiple roles in creating this piece--not only writer and reader, but also translator, curator, and visual artist.
+
+Not only is the book complex in terms of its written form, incorporating original writing as well as translation and borrowed letters, but it's also visually complex, with a format unlike anything I have seen, and which I'll describe in a moment. Written as a sort of elegy for her brother, with whom she had a distant and complicated relationship, *Nox* is a stunning example of a writer representing the unsayable through disruptions in a written text. (This notion was at the heart of my dissertation, and I so wish that I could have explored *Nox* alongside Roubaud's *Quelque chose noir*, Jabès's *Livre des questions*, and the other works that came to mean so much to me--Carson's work would have enriched the conversation in a beautiful way. Perhaps another project for another time.)
+
+Returning to my reading of *Nox*, though. There is so much to talk about. First, and most immediately noticeable, is the construction: the book is a sheaf of continuous accordion-folded pages, unbound at the spine; the single pleated page is contained (loose) inside a hard-edged box that opens like a book. The reader can carefully turn the folded pages like a codex, or she can stretch them out from end to end, like a scroll.
+
+Next, the language: this is why I love Carson to begin with. She is a poet, and her language makes that clear, even in prose; each word is crafted and placed with such intention. She makes me catch my breath. I loved Carson's earlier book, *[Autobiography of Red](http://www.amazon.com/Autobiography-Red-Anne-Carson/dp/037570129X)*, for the same reason; it is innovative and surprising and hauntingly beautiful. (For a great interview in which she discusses both *Autobiography of Red* and *Nox*, try [this](http://www.cbc.ca/writersandcompany/episode/2011/09/18/anne-carson-interview/).)
+
+Then, the fragments: the pages look like small collages; each one features a small scrap that appears to have been hurriedly glued or stapled onto the page. The pages are flat and smooth (being reproductions of the original constructions), but the illusion of texture led me to run my fingertips over the page countless times. Carson creates a physical space that holds her own thoughts and her brother's, as well as elements that are hard to place or that don't seem to make sense.
+
+Finally, the added complexity of translation: the work starts with a poem by Catallus (#101), presented in Latin in smudgy ink. I merely glanced at it, as I don't know Latin. But Carson makes the reader think so deeply about that poem. On alternate pages, she presents a single dictionary entry for a word in the poem. (Even the dictionary entries, I suspect, are her own; the sample sentences are too rich to be genuine reference material.) Page by page, I tried to construct the meaning of the poem for myself, and as a result, I read those lines of barely-understood Latin dozens of times. I couldn't come to a translation, but I came to a rough understanding of the poem's skeleton. By the time Carson included an English translation (her own), I yearned for it.
+
+The element of translation is perhaps the most interesting to me. Carson is a translator, and she describes her mourning process in terms of translation: she studies her brother fragment by fragment, trying to reach something whole. It is, she says, an unending process. She describes the process, as well as her choice of the particular Catallus poem, in a section labeled 7.1:  
+
+> I have loved this poem since the first time I read it in high school Latin class and I have tried to translate it a number of times... I never arrived at the translation I would have liked to do of poem 101. But over the years of working at it, I came to think of translating as a room, not exactly an unknown room, where one gropes for the light switch. I guess it never ends. A brother never ends. I prowl him. He does not end.
+
+This is a book to re-read and to savor.
+
+Circling back to the connection with Ramsay's thoughts on Oulipo, Carson's choice of form in *Nox* functions as a similar kind of constraint. As with the Oulipians, there is no room for anything to be out of place. Carson reads and writes and translates and interprets and designs, and she encourages the reader to engage in similarly blended acts, resulting in a rich and intense experience that I won't soon forget.
